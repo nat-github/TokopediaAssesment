@@ -68,3 +68,15 @@ _P.S. : Generated sample Spring boot application from https://start.spring.io/ .
 
 _This assignment has helped me to start learn Spring boot and experiment with it._
 
+
+Sample reports :
+
+<img width="1428" alt="image" src="https://user-images.githubusercontent.com/15065249/183743438-9c2394c4-ffe5-4213-b7ad-6b008ae2ecc8.png">
+
+
+
+
+Screenshot 2022-08-10 at 12.50.24 AM<img width="1439" alt="image" src="https://user-images.githubusercontent.com/15065249/183743682-952474ef-8d5a-4600-868a-f3cb86dae5b1.png">
+
+
+
