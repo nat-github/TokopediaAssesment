@@ -49,7 +49,7 @@ Two different ways to execute Cucumber Tests :
 	TestRunner : Configure the test runner and execute it via IDE (IntelliJ / eclipse) based on the tags specified in the testrunner file
    Run mvn command to execute the tests along with cucumber options
 
-`mvn test -Dcucumber.filter.tags="@ORDER and @statusCode"` (to run the scenarios with tests the status code)
+`mvn test -Dcucumber.filter.tags="@ORDER and @statusCode"` (to run the scenarios which tests the status code)
 `mvn test -Dcucumber.filter.tags="@ORDER"` (to run all the scenarios in the feature file).
 
 _HTML reports_ will be generated in the target folder once the code gets executed.
